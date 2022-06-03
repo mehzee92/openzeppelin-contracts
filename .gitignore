@@ -27,7 +27,6 @@ node_modules
 npm-debug.log
 
 # local env variables
-.env
 
 # truffle build directory
 build/
@@ -62,3 +61,8 @@ artifacts
 .certora*
 .last_confs
 certora_*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
